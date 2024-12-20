@@ -1,0 +1,8 @@
+[package]
+name = "logger-rs"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.38"
+colored = "2.1.0"
